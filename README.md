@@ -25,8 +25,9 @@ Step 2: Apply some Rosin Flux and solder the new 1200uF Capacitor in the place o
 
 <h2> Fixing Library Issue </h2>
 
-Step 1: Clone or Download this repository
-Step 2: Paste the folder "SIM800L_EVB2" in the Arduino ide Library Folder
-Step 3: Open Arduino IDE and go into Example to see the new examples and implementations of the library
+Steps:
+1. Clone or Download this repository
+2. Paste the folder "SIM800L_EVB2" in the Arduino ide Library Folder
+3. Open Arduino IDE and go into Example to see the new examples and implementations of the library
 
 Et Voila Done! Hope that this repo has helped you. Also, do support the repo by giving it a star if it has help you.
