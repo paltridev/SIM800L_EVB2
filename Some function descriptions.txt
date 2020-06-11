@@ -1,9 +1,5 @@
 GSM GPRS Shield for Arduino Uno
 
-For informations and support:
-http://code.google.com/p/gsm-shield-arduino/
-http://www.open-electronics.org/arduino-gsm-shield/
-
 The below functions are always available in the library.
 
 int attachGPRS(char* domain, char* dom1, char* dom2)
